@@ -4,7 +4,7 @@
 Complete Description
 
 Problem Statement:
-In the midst of an ongoing conflict between two nations, submarine navigation poses a critical challenge as enemy territories have strategically planted explosive mines within the ocean depths. To address this peril, our objective is to develop a sophisticated "Submarine Mine vs Rock Detection System." The system aims to equip submarines with the capability to predict and differentiate between potentially hazardous mines and harmless rocks during their underwater missions.
+In the midst of an ongoing conflict between two nations, submarine navigation poses a critical challenge as enemy territories have strategically planted explosive mines within the ocean depths. To address this peril, our objective is to develop a sophisticated " Mine and Rock Detection System ". The system aims to equip submarines with the capability to predict and differentiate between potentially hazardous mines and harmless rocks during their underwater missions.
 
 Objective:
 The primary goal of this project is to create a predictive system that utilizes sonar signals to assess the nature of objects beneath a submarine, distinguishing between explosive mines and inert rocks. By leveraging machine learning, specifically a logistic regression model, the system will analyze sonar data to provide real-time predictions, aiding submarines in navigating safely through ocean territories.
