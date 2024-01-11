@@ -9,6 +9,9 @@ In the midst of an ongoing conflict between two nations, submarine navigation po
 Objective:
 The primary goal of this project is to create a predictive system that utilizes sonar signals to assess the nature of objects beneath a submarine, distinguishing between explosive mines and inert rocks. By leveraging machine learning, specifically a logistic regression model, the system will analyze sonar data to provide real-time predictions, aiding submarines in navigating safely through ocean territories.
 
+The project begins by collecting sonar data and splitting it into training and test datasets. It employs a logistic regression model to predict the classification of objects as rocks or mines based on the sonar information. The key functionalities of the project include importing necessary libraries, loading the dataset into a pandas dataframe, exploring the data with descriptive statistics, and using machine learning techniques to train and evaluate the predictive model. The project concludes by demonstrating how to make predictions on new data and assess the accuracy of the model.
+
+
 Key Components:
 
 a) Sonar Signal Processing: Implement a system that efficiently processes sonar signals emitted by the submarine and interprets the returning echoes.
