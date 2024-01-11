@@ -12,10 +12,15 @@ The primary goal of this project is to create a predictive system that utilizes 
 Key Components:
 
 a) Sonar Signal Processing: Implement a system that efficiently processes sonar signals emitted by the submarine and interprets the returning echoes.
+
 b) Dataset Collection: Gather a comprehensive dataset comprising sonar readings from regions with known mine and rock locations, simulating diverse underwater scenarios.
+
 c) Data Preprocessing: Clean and preprocess the collected data, ensuring it is suitable for model training. This involves handling missing values, scaling features, and splitting the dataset into training and test sets.
+
 d) Logistic Regression Model: Employ a logistic regression machine learning model to learn patterns from the sonar data and predict whether the detected object is a mine or a rock.
+
 e) Model Training and Evaluation: Train the logistic regression model using the training dataset and evaluate its performance on a separate test dataset to ensure reliable predictions.
+
 f) Real-Time Prediction: Implement a mechanism for real-time prediction, allowing the system to continuously analyze incoming sonar signals and provide timely feedback to the submarine.
 
 Expected Outcome:
